@@ -3,6 +3,7 @@ docs/equations/*.log
 docs/equations/*.out
 docs/equations/*.synctex.gz
 
+.idea
 .ipynb_checkpoints
 .DS_Store
 code/datasets/movie/aclImdb_v1.tar.gz
